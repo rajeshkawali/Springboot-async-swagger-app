@@ -1,18 +1,3 @@
-/**
- * ------------------------------------------------------------------------------------------------
- * Change History: SwaggerConfig
- * 
- * Revision     Date              Developer            Comments
- * ------------------------------------------------------------------------------------------------
- * 1.0        06-April-2022       Rajesh_Kawali        Initial Commit
- * ------------------------------------------------------------------------------------------------
- * Copyright (c) 2022 Dell Technologies or its subsidiaries. All Rights Reserved.
- * This software contains the intellectual property of Dell Technologies or is licensed to
- * Dell Technologies from third parties. Use of this software and the intellectual property
- * contained therein is expressly limited to the terms and conditions of the License
- * Agreement under which it is provided by or on behalf of Dell Technologies.
- * ------------------------------------------------------------------------------------------------
- */
 package com.rajeshkawali.config;
 
 import org.springframework.context.annotation.Bean;
